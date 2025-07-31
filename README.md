@@ -8,7 +8,7 @@
 
 - 🌱 **Passionate about learning and exploring new technologies.**
 
-- 👨‍💻 **Currently working on JavaScript to enhance my skills in Web Development.**
+- 👨‍💻 **Currently working on React.js , Node.js , Express.js , MongoDB to enhance my skills in Web Development.**
 
 - 💬 **Let's connect and chat about coding, tech, or any collaborative opportunities!**
 
