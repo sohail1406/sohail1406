@@ -6,7 +6,7 @@
 
 - 🌱 **Passionate about learning and exploring new technologies.**
 
-- 👨‍💻 **Currently working on React.js , Node.js , Express.js , MongoDB to enhance my skills in Web Development.**
+- 👨‍💻 **Currently working on React.js , Redux, Node.js , Express.js , MongoDB , RESTAPIs to enhance my skills in Web Development.**
 
   
 
