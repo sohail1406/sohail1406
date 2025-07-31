@@ -4,15 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sohail1406&label=Profile%20views&color=0e75b6&style=flat" alt="sohail1406" /> </p>
 
-- 💻 **I have completed my graduation B.Tech. CSE from IPS College of Technology & Management,Gwalior**
-
 - 🌱 **Passionate about learning and exploring new technologies.**
 
 - 👨‍💻 **Currently working on React.js , Node.js , Express.js , MongoDB to enhance my skills in Web Development.**
 
-- 💬 **Let's connect and chat about coding, tech, or any collaborative opportunities!**
+  
 
-- ⚡ **In my free time, I enjoy and watching movies , singing a song and travelling.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
